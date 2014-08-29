@@ -43,7 +43,6 @@
             "types",
             "widgets",
             ],
-        insertRequire: ['continue'],
     }],
 
 })
